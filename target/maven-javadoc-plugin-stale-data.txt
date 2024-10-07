@@ -1,0 +1,85 @@
+@options
+@packages
+-classpath
+'C:/Users/Akrc/.m2/repository/com/velocitypowered/velocity-api/3.3.0-SNAPSHOT/velocity-api-3.3.0-SNAPSHOT.jar;C:/Users/Akrc/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar;C:/Users/Akrc/.m2/repository/com/google/guava/guava/25.1-jre/guava-25.1-jre.jar;C:/Users/Akrc/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar;C:/Users/Akrc/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar;C:/Users/Akrc/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar;C:/Users/Akrc/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar;C:/Users/Akrc/.m2/repository/com/moandjiezana/toml/toml4j/0.7.2/toml4j-0.7.2.jar;C:/Users/Akrc/.m2/repository/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar;C:/Users/Akrc/.m2/repository/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar;C:/Users/Akrc/.m2/repository/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar;C:/Users/Akrc/.m2/repository/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar;C:/Users/Akrc/.m2/repository/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar;C:/Users/Akrc/.m2/repository/net/kyori/adventure-text-serializer-gson/4.17.0/adventure-text-serializer-gson-4.17.0.jar;C:/Users/Akrc/.m2/repository/net/kyori/adventure-text-serializer-json/4.17.0/adventure-text-serializer-json-4.17.0.jar;C:/Users/Akrc/.m2/repository/net/kyori/option/1.0.0/option-1.0.0.jar;C:/Users/Akrc/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar;C:/Users/Akrc/.m2/repository/net/kyori/adventure-text-serializer-legacy/4.17.0/adventure-text-serializer-legacy-4.17.0.jar;C:/Users/Akrc/.m2/repository/net/kyori/adventure-text-serializer-plain/4.17.0/adventure-text-serializer-plain-4.17.0.jar;C:/Users/Akrc/.m2/repository/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar;C:/Users/Akrc/.m2/repository/net/kyori/adventure-text-logger-slf4j/4.17.0/adventure-text-logger-slf4j-4.17.0.jar;C:/Users/Akrc/.m2/repository/net/kyori/adventure-text-serializer-ansi/4.17.0/adventure-text-serializer-ansi-4.17.0.jar;C:/Users/Akrc/.m2/repository/net/kyori/ansi/1.0.3/ansi-1.0.3.jar;C:/Users/Akrc/.m2/repository/org/yaml/snakeyaml/1.33/snakeyaml-1.33.jar;C:/Users/Akrc/.m2/repository/org/slf4j/slf4j-api/2.0.12/slf4j-api-2.0.12.jar;C:/Users/Akrc/.m2/repository/com/google/inject/guice/6.0.0/guice-6.0.0.jar;C:/Users/Akrc/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar;C:/Users/Akrc/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar;C:/Users/Akrc/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar;C:/Users/Akrc/.m2/repository/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar;C:/Users/Akrc/.m2/repository/com/velocitypowered/velocity-brigadier/1.0.0-SNAPSHOT/velocity-brigadier-1.0.0-SNAPSHOT.jar;C:/Users/Akrc/.m2/repository/org/spongepowered/configurate-hocon/4.1.2/configurate-hocon-4.1.2.jar;C:/Users/Akrc/.m2/repository/org/spongepowered/configurate-core/4.1.2/configurate-core-4.1.2.jar;C:/Users/Akrc/.m2/repository/io/leangen/geantyref/geantyref/1.3.11/geantyref-1.3.11.jar;C:/Users/Akrc/.m2/repository/com/typesafe/config/1.4.1/config-1.4.1.jar;C:/Users/Akrc/.m2/repository/org/spongepowered/configurate-yaml/4.1.2/configurate-yaml-4.1.2.jar;C:/Users/Akrc/.m2/repository/org/spongepowered/configurate-gson/4.1.2/configurate-gson-4.1.2.jar;C:/Users/Akrc/.m2/repository/com/github/ben-manes/caffeine/caffeine/3.1.5/caffeine-3.1.5.jar;C:/Users/Akrc/.m2/repository/org/jspecify/jspecify/0.3.0/jspecify-0.3.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Akrc/Documents/GitHub/Temp Server Velocity/src/main/java;C:/Users/Akrc/Documents/GitHub/Temp Server Velocity/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Akrc/Documents/GitHub/Temp Server Velocity/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'temp-server-velocity 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'temp-server-velocity 1.0-SNAPSHOT API'
+fr._666666.mc.proxytempserver.tempServerVelocity
+C:\Users\Akrc\.m2\repository\com\velocitypowered\velocity-api\3.3.0-SNAPSHOT\velocity-api-3.3.0-SNAPSHOT.jar = 1728291352785
+C:\Users\Akrc\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar = 1728291356433
+C:\Users\Akrc\.m2\repository\com\google\guava\guava\25.1-jre\guava-25.1-jre.jar = 1728291353286
+C:\Users\Akrc\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar = 1728291354099
+C:\Users\Akrc\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar = 1728291344991
+C:\Users\Akrc\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar = 1728291346532
+C:\Users\Akrc\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar = 1728291347520
+C:\Users\Akrc\.m2\repository\com\moandjiezana\toml\toml4j\0.7.2\toml4j-0.7.2.jar = 1728291346084
+C:\Users\Akrc\.m2\repository\net\kyori\adventure-api\4.17.0\adventure-api-4.17.0.jar = 1728291344429
+C:\Users\Akrc\.m2\repository\net\kyori\adventure-key\4.17.0\adventure-key-4.17.0.jar = 1728291345144
+C:\Users\Akrc\.m2\repository\net\kyori\examination-api\1.3.0\examination-api-1.3.0.jar = 1728291350054
+C:\Users\Akrc\.m2\repository\net\kyori\examination-string\1.3.0\examination-string-1.3.0.jar = 1728291347156
+C:\Users\Akrc\.m2\repository\org\jetbrains\annotations\24.1.0\annotations-24.1.0.jar = 1728291345712
+C:\Users\Akrc\.m2\repository\net\kyori\adventure-text-serializer-gson\4.17.0\adventure-text-serializer-gson-4.17.0.jar = 1728291346545
+C:\Users\Akrc\.m2\repository\net\kyori\adventure-text-serializer-json\4.17.0\adventure-text-serializer-json-4.17.0.jar = 1728291343714
+C:\Users\Akrc\.m2\repository\net\kyori\option\1.0.0\option-1.0.0.jar = 1728291345229
+C:\Users\Akrc\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar = 1728291346323
+C:\Users\Akrc\.m2\repository\net\kyori\adventure-text-serializer-legacy\4.17.0\adventure-text-serializer-legacy-4.17.0.jar = 1728291344085
+C:\Users\Akrc\.m2\repository\net\kyori\adventure-text-serializer-plain\4.17.0\adventure-text-serializer-plain-4.17.0.jar = 1728291344301
+C:\Users\Akrc\.m2\repository\net\kyori\adventure-text-minimessage\4.17.0\adventure-text-minimessage-4.17.0.jar = 1728291346563
+C:\Users\Akrc\.m2\repository\net\kyori\adventure-text-logger-slf4j\4.17.0\adventure-text-logger-slf4j-4.17.0.jar = 1728291345531
+C:\Users\Akrc\.m2\repository\net\kyori\adventure-text-serializer-ansi\4.17.0\adventure-text-serializer-ansi-4.17.0.jar = 1728291349533
+C:\Users\Akrc\.m2\repository\net\kyori\ansi\1.0.3\ansi-1.0.3.jar = 1728291344300
+C:\Users\Akrc\.m2\repository\org\yaml\snakeyaml\1.33\snakeyaml-1.33.jar = 1728291346339
+C:\Users\Akrc\.m2\repository\org\slf4j\slf4j-api\2.0.12\slf4j-api-2.0.12.jar = 1728291348686
+C:\Users\Akrc\.m2\repository\com\google\inject\guice\6.0.0\guice-6.0.0.jar = 1728291370759
+C:\Users\Akrc\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar = 1728291371528
+C:\Users\Akrc\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar = 1728291343254
+C:\Users\Akrc\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar = 1728291344228
+C:\Users\Akrc\.m2\repository\org\checkerframework\checker-qual\3.42.0\checker-qual-3.42.0.jar = 1728291351656
+C:\Users\Akrc\.m2\repository\com\velocitypowered\velocity-brigadier\1.0.0-SNAPSHOT\velocity-brigadier-1.0.0-SNAPSHOT.jar = 1728291347198
+C:\Users\Akrc\.m2\repository\org\spongepowered\configurate-hocon\4.1.2\configurate-hocon-4.1.2.jar = 1728291347941
+C:\Users\Akrc\.m2\repository\org\spongepowered\configurate-core\4.1.2\configurate-core-4.1.2.jar = 1728291345150
+C:\Users\Akrc\.m2\repository\io\leangen\geantyref\geantyref\1.3.11\geantyref-1.3.11.jar = 1728291351950
+C:\Users\Akrc\.m2\repository\com\typesafe\config\1.4.1\config-1.4.1.jar = 1728291349345
+C:\Users\Akrc\.m2\repository\org\spongepowered\configurate-yaml\4.1.2\configurate-yaml-4.1.2.jar = 1728291350200
+C:\Users\Akrc\.m2\repository\org\spongepowered\configurate-gson\4.1.2\configurate-gson-4.1.2.jar = 1728291348617
+C:\Users\Akrc\.m2\repository\com\github\ben-manes\caffeine\caffeine\3.1.5\caffeine-3.1.5.jar = 1728291352075
+C:\Users\Akrc\.m2\repository\org\jspecify\jspecify\0.3.0\jspecify-0.3.0.jar = 1728291354384
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\src\main\java = 1728291258573
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\generated-sources\annotations = 1728292432889
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\allclasses-index.html = 1728292443747
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\allpackages-index.html = 1728292443758
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\copy.svg = 1728292443850
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\element-list = 1728292443507
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\help-doc.html = 1728292443831
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\index-all.html = 1728292443802
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\index.html = 1728292443817
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\link.svg = 1728292443853
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\member-search-index.js = 1728292443772
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\module-search-index.js = 1728292443763
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\overview-tree.html = 1728292443671
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\package-search-index.js = 1728292443766
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\script.js = 1728292443847
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\search-page.js = 1728292443868
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\search.html = 1728292443810
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\search.js = 1728292443862
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\stylesheet.css = 1728292443841
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\tag-search-index.js = 1728292443775
+C:\Users\Akrc\Documents\GitHub\Temp Server Velocity\target\apidocs\type-search-index.js = 1728292443769

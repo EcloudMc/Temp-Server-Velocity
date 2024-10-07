@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"fr._666666.mc.proxytempserver.tempServerVelocity","c":"TempServerVelocity","l":"TempServerVelocity(ProxyServer, Logger)","u":"%3Cinit%3E(com.velocitypowered.api.proxy.ProxyServer,org.slf4j.Logger)"}];updateSearchResults();
